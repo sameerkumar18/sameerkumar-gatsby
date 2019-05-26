@@ -2,18 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript
-  - HTML & SCSS
-  - React
-  - Vue
+  - Python
+  - Django
+  - Flask
+  - Falcon
+  - Javascript
   - Node.js
-  - Express
-  - GraphQL
-  - NativeScript
+  - SQL
+  - APIs
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Sameer, a software engineer based in New Delhi, India who enjoys building things that live on the internet. I develop robust backend for websites and apps using modern development practices for maintainable and scalable code.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly after graduating from [VIPS](http://vips.edu/), I joined the engineering team at [SupplyAI](https://www.supply.ai/) where I work on a wide variety of interesting and meaningful problems on a daily basis.
 
 Here's a few technologies I've been working with recently:

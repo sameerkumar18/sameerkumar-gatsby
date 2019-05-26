@@ -1,14 +1,14 @@
 ---
 date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
+title: 'Corporate BS Generator API'
 image: ''
-github: ''
+github: 'https://github.com/sameerkumar18/corporate-bs-generator-api'
 external: ''
 tech:
-  - Ember
-  - JS
-  - SCSS
+  - Javascript
+  - NodeJS
+  - Express
 show: 'true'
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+Corporate bullshit is the icing on the cake, proof that not even the business world takes the business world seriously. So, I made this lovely little corporate bullshit generator to randomly pick out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.

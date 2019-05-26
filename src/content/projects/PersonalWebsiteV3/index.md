@@ -1,15 +1,13 @@
 ---
-date: '2017-10-01'
-title: 'Personal Website V3'
+date: '2017-11-01'
+title: 'Geek Jokes API'
 image: ''
-github: 'https://github.com/bchiang7/bchiang7.github.io'
-external: 'https://bchiang7.github.io/v3/'
+github: ''
+external: 'https://github.com/sameerkumar18/geek-joke-api'
 tech:
-  - Jekyll
-  - SCSS
-  - JS
-  - Github Pages
+  - Python
+  - Flask
 show: 'true'
 ---
 
-Third iteration of my personal website built with Jekyll and hosted on Github Pages.
+Geek Jokes RESTful API lets you fetch a random geeky/programming related joke for use in all sorts of applications.

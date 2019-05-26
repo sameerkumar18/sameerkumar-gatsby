@@ -1,17 +1,19 @@
 ---
 date: '2017-06-22'
-title: 'Lonely Planet DBMS'
+title: 'Garbage Overflow'
 image: ''
-github: 'https://github.com/bchiang7/CS3200-Project'
-external: ''
+github: 'https://github.com/sameerkumar18/garbage-overflow'
+external: 'https://www.hackathon.io/85817'
 tech:
   - Python
-  - MySQL
   - Flask
+  - SQLite
   - HTML
   - CSS
-  - JS
+  - Javascript
+  - Arduino
+  - C
 show: 'true'
 ---
 
-A simple web application that allows users to filter through and leave reviews in a database of Lonely Planet's Top 500 Travel Destinations.
+IoT based garbage management platform for authorities who need to maintain garbage bins. Made at Random Hacks for Kindness, New Delhi - July, 2016

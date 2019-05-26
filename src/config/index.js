@@ -1,37 +1,37 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Sameer Kumar | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Sameer Kumar is a software engineer based in New Delhi, India who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Sameer Kumar, Sameer, Kumar, bchiang7, software engineer, backend-end engineer, web developer, python, vips, django',
+  siteUrl: 'https://www.sameerkumar.website',
   siteLanguage: 'en_US',
 
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
+  name: 'Sameer Kumar',
+  location: 'New Delhi, India',
+  email: 'sam@sameerkumar.website',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7/',
+      url: 'https://github.com/sameerkumar18/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7/',
+      url: 'https://www.linkedin.com/in/sameer-kumar18/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7/',
+    // },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
+      url: 'https://www.instagram.com/sameer.kumar18/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/sameer_kumar018',
     },
   ],
 
@@ -49,12 +49,16 @@ module.exports = {
       url: '#projects',
     },
     {
+      name: 'Blog',
+      url: 'https://blog.sameerkumar.website',
+    },
+    {
       name: 'Contact',
       url: '#contact',
     },
   ],
 
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@sameer_kumar018',
   googleAnalyticsID: 'UA-45666519-2',
 
   navHeight: 100,

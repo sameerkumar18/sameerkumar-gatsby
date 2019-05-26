@@ -1,13 +1,18 @@
 ---
 date: '2018-12-29'
-title: 'Google Keep Clone'
+title: 'Aspen'
 cover: './google-keep-clone.png'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+github: ''
+external: 'https://www.supply.ai/aspen'
 tech:
-  - Vue
-  - Firebase
+  - Python
+  - REST APIs
+  - Shopify
+  - Django
+  - DRF
+  - Algolia
+  - AWS
 show: 'true'
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+Aspen is a post purchase customer management system that enhances retailers' ability to service customers across multiple channels.

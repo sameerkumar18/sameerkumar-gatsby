@@ -1,15 +1,14 @@
 ---
 date: '2017-04-03'
-title: 'myNEU Redesign'
+title: 'Taurauto Sharer'
 image: ''
-github: 'https://github.com/bchiang7/Redesign-myNEU'
-external: 'https://bchiang7.github.io/Redesign-myNEU/'
+github: 'https://github.com/sameerkumar18/Taurauto-Sharer'
+external: ''
 tech:
-  - Jekyll
-  - HTML
-  - SCSS
-  - JS
+  - Python
+  - Selenium
+  - Scraping
 show: 'true'
 ---
 
-Student web portal prototype built after conducting multiple rounds of user testing that aimed to improve the current portal to provide students at Northeastern University with a better user experience.
+A bunch of Social Media Automation Tools. Boosts your posts and spread the word about your product with just a click of a button.

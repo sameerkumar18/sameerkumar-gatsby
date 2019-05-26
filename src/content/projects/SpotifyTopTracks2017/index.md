@@ -1,13 +1,15 @@
 ---
 date: '2018-04-20'
-title: 'Spotify’s Top Tracks of 2017'
+title: 'DHCBA - Lawfacto'
 image: ''
-github: 'https://github.com/bchiang7/spotify-top-tracks-2017'
-external: ''
+github: ''
+external: 'https://play.google.com/store/apps/details?id=com.auribises.dhcba'
 tech:
-  - R
-  - Spotify Web API
+  - Python
+  - Flask
+  - REST APIs
+  - Scraping
 show: 'true'
 ---
 
-R Project for my Data Science class at Northeastern to analyze the top Spotify tracks of 2017 and their audio features.
+This application brings under one umbrella the Display Board, Orders, Judgments of the Delhi High Court, Notifications of the Bar and updates of all upcoming events, etc. in an easy and efficient way. The app was launched in the presence of Sh. Arun Jaitley (Hon'ble Minister of Finance and Corporate Affairs, Govt. Of India).

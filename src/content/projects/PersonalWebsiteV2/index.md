@@ -1,15 +1,15 @@
 ---
 date: '2016-12-01'
-title: 'Personal Website V2'
+title: 'PDFGeneratorAPI Python Wrapper'
 image: ''
-github: 'https://github.com/bchiang7/v2'
-external: 'https://bchiang7.github.io/v2/'
+github: 'https://github.com/sameerkumar18/pdfgeneratorapi-python'
+external: ''
 tech:
-  - Jekyll
-  - SCSS
-  - JS
-  - Github Pages
+  - Python
+  - REST APIs
+  - PyPi
+  - Unit Testing
 show: 'true'
 ---
 
-Second iteration of my personal website. Designed and developed with a conscious effort to avoid using any superfluous frameworks like Bootstrap.
+Wrote the python client library for PDFGeneratorAPI.

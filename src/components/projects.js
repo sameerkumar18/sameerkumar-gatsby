@@ -123,8 +123,8 @@ const Projects = ({ data }) => {
   const projectsToShow = showMore ? projects : firstSix;
 
   return (
-    <ProjectsContainer>
-      <ProjectsTitle ref={revealTitle}>Other Projects</ProjectsTitle>
+    <ProjectsContainer id="projects">
+      <ProjectsTitle ref={revealTitle}>Projects</ProjectsTitle>
       <ProjectsGrid>
         <TransitionGroup className="projects">
           {projectsToShow &&

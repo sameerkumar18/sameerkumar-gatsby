@@ -1,13 +1,14 @@
 ---
 date: '2017-08-01'
-title: 'Interventions'
+title: 'FloodSayat.'
 image: ''
 github: ''
-external: 'https://interventions.design/'
+external: 'https://floodsayat.sameerkumar.website'
 tech:
-  - Jekyll
-  - Github Pages
+  - Python
+  - Flask
+  - DOS Attack
 show: 'true'
 ---
 
-Interactive marketing website for Northeastern's first annual student-led design conference, Interventions.
+Sayat.me is Anonymous Feedback Tool. FloodSayat.me allows you to flood users with n number of feedbacks. This vulnerability was fixed by Sayat.me after few months of after the website was published.

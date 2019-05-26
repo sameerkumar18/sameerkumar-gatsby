@@ -16,13 +16,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'SameerKumar',
+        short_name: 'SameerKumar',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/content/logo.png',
       },
     },
     `gatsby-plugin-offline`,

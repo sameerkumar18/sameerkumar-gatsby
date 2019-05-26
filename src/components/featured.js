@@ -272,4 +272,4 @@ Featured.propTypes = {
   data: PropTypes.array.isRequired,
 };
 
-export default Featured;
+// export default Featured;

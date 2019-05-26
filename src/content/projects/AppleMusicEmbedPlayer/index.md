@@ -1,14 +1,15 @@
 ---
 date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
+title: 'VIPS Events'
 image: ''
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: 'https://vips-events.in'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
+  - Python
+  - Django
+  - DRF
+  - Postgres
 show: 'true'
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+Event registration website with android API integrations and admin panel for event coordinators for the annual flagship technical event of Vivekananda Institute of Professional Studies.

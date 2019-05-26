@@ -1,16 +1,19 @@
 ---
 date: '2018-05-01'
-title: 'blistabloc'
+title: 'DownloadAnySong'
 image: ''
 github: ''
-external: 'https://blistabloc.com/'
+external: 'https://www.downloadanysong.com'
 tech:
-  - Wordpress
-  - Timber
-  - WooCommerce
-  - SCSS
-  - JS
+  - Django
+  - Flask
+  - Python
+  - Youtube API
+  - Spotify API
+  - DRF
+  - Javascript
+  - Android
 show: 'true'
 ---
 
-Custom wordpress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+A multiplatform music discovery application with best in class UX to access almost any song. DownloadAnySong was featured by popular social media pages(over 2000 social media mentions). Over 400,000 downloads and best achieved #10 Trending in Music & Audio category on Google Play Store.

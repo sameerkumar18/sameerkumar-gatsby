@@ -1,12 +1,11 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - Dec 2016'
-url: 'https://www.apple.com/music/'
+title: 'Backend Web Developer Intern'
+company: 'AudienceSutra'
+location: 'New Delhi, India'
+range: 'September 2017 - October 2017'
+url: 'https://audiencesutra.com/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+Built an online survey platform where businesses can understand their customer's behaviour via forms.
+Customers can earn cash just by filling a survey.

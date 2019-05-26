@@ -1,13 +1,11 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - Dec 2017'
-url: 'https://www.apple.com/music/'
+title: 'Backend Developer Intern'
+company: 'Dhuper Infotech'
+location: 'New Delhi, India'
+range: 'October 2017 - February 2018'
+url: 'https://play.google.com/store/apps/details?id=com.auribises.dhcba'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Responsible for writing and deploying the whole backend infrastructure including REST APIs for the Android and iOS Apps
+- Built and shipped the backend for the official app of Delhi High Court Bar Association(DHCBA)

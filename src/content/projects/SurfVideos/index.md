@@ -1,14 +1,16 @@
 ---
 date: '2018-03-01'
-title: 'Surf Videos'
+title: 'aztro API & Package'
 image: ''
-github: 'https://github.com/bchiang7/Surf-Videos'
+github: 'https://github.com/sameerkumar18/aztro'
 external: ''
 tech:
-  - React
-  - Axios
-  - YouTube API
+  - Python
+  - Flask
+  - Web APIs
+  - PyPi
 show: 'true'
 ---
 
-Small React project to browse and search surf videos via the YouTube API.
+aztro API allows developers to access and integrate the functionality of aztro with other applications. The API retrieves daily horoscopes for yesterday, today, and tomorrow.
+[Pyaztro](https://github.com/sameerkumar18/pyaztro) is the python package available for aztro API.
