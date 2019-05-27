@@ -3,7 +3,7 @@ date: '2018-03-01'
 title: 'aztro API & Package'
 image: ''
 github: 'https://github.com/sameerkumar18/aztro'
-external: ''
+external: 'https://pepy.tech/project/pyaztro'
 tech:
   - Python
   - Flask

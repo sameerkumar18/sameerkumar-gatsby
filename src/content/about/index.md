@@ -9,7 +9,7 @@ skills:
   - Javascript
   - Node.js
   - SQL
-  - APIs
+  - DRF
 ---
 
 Hello! I'm Sameer, a software engineer based in New Delhi, India who enjoys building things that live on the internet. I develop robust backend for websites and apps using modern development practices for maintainable and scalable code.

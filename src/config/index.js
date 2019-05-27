@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Sameer Kumar is a software engineer based in New Delhi, India who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
-    'Sameer Kumar, Sameer, Kumar, bchiang7, software engineer, backend-end engineer, web developer, python, vips, django',
+    'Sameer Kumar, Sameer, Kumar, backend, software engineer, backend-end engineer, web developer, python, vips, django',
   siteUrl: 'https://www.sameerkumar.website',
   siteLanguage: 'en_US',
 
@@ -21,10 +21,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/sameer-kumar18/',
     },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/bchiang7/',
-    // },
+    {
+      name: 'Blog',
+      url: 'https://blog.sameerkumar.website/',
+    },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/sameer.kumar18/',
@@ -49,17 +49,13 @@ module.exports = {
       url: '#projects',
     },
     {
-      name: 'Blog',
-      url: 'https://blog.sameerkumar.website',
-    },
-    {
       name: 'Contact',
       url: '#contact',
     },
   ],
 
   twitterHandle: '@sameer_kumar018',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-70893617-1',
 
   navHeight: 100,
 
@@ -70,7 +66,7 @@ module.exports = {
   srConfig: (delay = 200) => ({
     origin: 'bottom',
     distance: '20px',
-    duration: 500,
+    duration: 250,
     delay,
     rotate: { x: 0, y: 0, z: 0 },
     opacity: 0,

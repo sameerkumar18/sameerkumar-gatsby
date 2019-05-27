@@ -8,6 +8,8 @@ import {
   IconTwitter,
   IconStar,
   IconFork,
+  // IconExternal,
+  IconFolder,
 } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
@@ -53,6 +55,7 @@ const GithubLink = styled.a`
 `;
 const GithubInfo = styled.div`
   margin-top: 10px;
+  margin-bottom: 20px;
 
   & > span {
     display: inline-flex;
@@ -90,7 +93,7 @@ const Footer = ({ githubInfo }) => (
                 ) : name === 'Twitter' ? (
                   <IconTwitter />
                 ) : (
-                  <IconGithub />
+                  <IconFolder />
                 )}
               </SocialLink>
             </li>
@@ -117,6 +120,7 @@ const Footer = ({ githubInfo }) => (
           </GithubInfo>
         )}
       </GithubLink>
+      <div>In perpetual β</div>
     </Copy>
   </FooterContainer>
 );

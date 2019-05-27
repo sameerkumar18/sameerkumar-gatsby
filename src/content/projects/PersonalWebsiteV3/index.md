@@ -2,8 +2,8 @@
 date: '2017-11-01'
 title: 'Geek Jokes API'
 image: ''
-github: ''
-external: 'https://github.com/sameerkumar18/geek-joke-api'
+github: 'https://github.com/sameerkumar18/geek-joke-api'
+external: ''
 tech:
   - Python
   - Flask
