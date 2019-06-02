@@ -8,5 +8,5 @@ url: 'https://www.supply.ai/'
 ---
 
 - Intern turned full-time employee. #4 here.
-- Write modern, performant, maintainable code for our flagship SaaS product Aspen
+- Write modern, performant, maintainable code for our flagship SaaS product AspenCX
 - Communicate with multi-disciplinary teams of engineers, and clients on a daily basis

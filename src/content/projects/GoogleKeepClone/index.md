@@ -1,6 +1,6 @@
 ---
 date: '2018-12-29'
-title: 'Aspen'
+title: 'AspenCX'
 cover: './google-keep-clone.png'
 github: ''
 external: 'https://www.supply.ai/aspen'
@@ -15,4 +15,4 @@ tech:
 show: 'true'
 ---
 
-Aspen is a post purchase customer management system that enhances retailers' ability to service customers across multiple channels.
+AspenCX is a post purchase customer management system that enhances retailers' ability to service customers across multiple channels.
