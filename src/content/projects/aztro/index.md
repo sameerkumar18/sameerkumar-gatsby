@@ -1,6 +1,6 @@
 ---
 date: '2018-03-01'
-title: 'aztro API & Package'
+title: 'aztro API & Libraries'
 image: ''
 github: 'https://github.com/sameerkumar18/aztro'
 external: 'https://pepy.tech/project/pyaztro'
