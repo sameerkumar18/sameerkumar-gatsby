@@ -1,6 +1,6 @@
 ---
 date: '2019-05-14'
-title: 'Engineer'
+title: 'Engineer (Backend)'
 company: 'DelightChat'
 location: 'Bengaluru, India'
 range: 'January 2021 - September 2021'
